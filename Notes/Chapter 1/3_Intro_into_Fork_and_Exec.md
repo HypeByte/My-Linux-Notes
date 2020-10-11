@@ -8,7 +8,7 @@
     <li>All user processes on Linux start as a result of fork() (excluding init), and most of the time, you also run exec() to create a new program.</li>
 </ul>
 
-<h3>Psuedo Devices</h3>
+<h3>Pseudodevices</h3>
 
 <ul>
     <li>Look like devices to user processes.</li>
