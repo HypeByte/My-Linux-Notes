@@ -49,8 +49,8 @@
   <table>
    <thead>
      <tr>
-     <th><b>Kernel Mode</b></tr>
-     <th><b>User Mode</b></tr>
+     <th><b>Kernel Mode</b></th>
+     <th><b>User Mode</b></th>
     </tr>
   </thead>
   <tbody>
