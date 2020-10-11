@@ -17,7 +17,8 @@
     
     <h3>Processes Management</h3>
     
-    <img src = "../Assets/LinuxProcesses.jpg">
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
     
       
       
