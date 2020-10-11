@@ -39,5 +39,13 @@
 	<li>Kernel manages the addresses.</li>
 	<li>Implementation of memory address map is called page table.</li>
 </ul>
+
+<h3>Device Drivers and Management</h3>
+
+<ul>
+	<li>Device Drivers run on Kernel Mode.</li>
+	<li>Reason: Improper access such as User mode could crash the machine.</li>
+	<li>Device drivers rarely have the same programming interface as user processes.</li>
+</ul>
       
       
