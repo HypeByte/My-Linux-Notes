@@ -42,6 +42,7 @@
   </table>
    
   <b>User Processes ---> User Mode</b>
+  <br></br>
   <b>Kernel ---> Kernel Mode</b>
   
   
