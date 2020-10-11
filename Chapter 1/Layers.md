@@ -22,6 +22,14 @@
           <li>Server</li>
         </ul>
       </td>
+       <td>
+         <ul>
+           <li>System Calls</li>
+           <li>Process Management</li>
+           <li>Memory Management</li>
+           <li>Device Drivers</li>
+          <ul>
+            </td>
     </tr>
   </table>
   
