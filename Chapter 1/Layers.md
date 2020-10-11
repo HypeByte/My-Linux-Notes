@@ -13,5 +13,15 @@
         <th>Hardware</th>
       </tr>
   </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Games</li>
+          <li>Shell</li>
+          <li>Server</li>
+        </ul>
+      </td>
+    </tr>
   </table>
   
