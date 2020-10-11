@@ -40,4 +40,8 @@
            </td>
     </tr>
   </table>
+   
+  <b>User Processes ---> User Mode</b>
+  <b>Kernel ---> Kernel Mode</b>
+  
   
