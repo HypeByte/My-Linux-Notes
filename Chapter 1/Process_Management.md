@@ -27,6 +27,15 @@
   <li>Kernel Tells CPU the <b>time slice</b> for new process</li>
   <li>Switch to <b>User Mode</b> for new process</li>
 
-    
+  <h3>Process Memory Management</h3>
+  <ul>
+  <li>Kernel needs private area in memory.</li>
+  <li>Each User Process needs own section of memory, can share memory, and some is read only.</li>
+  <li>Use disk space for extra memory.</li>
+  <li>CPU has a MMU (memory management unit) that enables virtual memory.</li>
+  <li>MMU uses memory address map to translate memory location from a process into an actual physical memory address.</li>
+  <li>Kernel manages the addresses.</li>
+  <li>Implementation of memory address map is called page table.</li>
+  </ul>
       
       
