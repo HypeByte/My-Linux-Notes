@@ -19,6 +19,14 @@
     
 ![Image of a Process Management diagram.](https://github.com/HypeByte/My-Linux-Notes/blob/master/Assets/LinuxProcesses.jpg)
 
+<h3>Steps of Process Management:</h3>
+
+  <ol>
+  <li>Kernel records the state in CPU and memory.</li>
+  <li>Kernel Prepares CPU and memory for new process.</li>
+  <li>Kernel Tells CPU the <b>time slice</b> for new process</li>
+  <li>Switch to <b>User Mode</b> for new process</li>
+
     
       
       
