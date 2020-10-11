@@ -17,7 +17,7 @@
     
     <h3>Processes Management</h3>
     
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of a Process Management diagram.](https://github.com/HypeByte/My-Linux-Notes/blob/master/Assets/LinuxProcesses.jpg)
 
     
       
