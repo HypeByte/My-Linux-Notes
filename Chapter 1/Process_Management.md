@@ -26,7 +26,7 @@
   <li>Kernel Prepares CPU and memory for new process.</li>
   <li>Kernel Tells CPU the <b>time slice</b> for new process</li>
   <li>Switch to <b>User Mode</b> for new process</li>
-
+  </ol>
   <h3>Process Memory Management</h3>
   <ul>
   <li>Kernel needs private area in memory.</li>
