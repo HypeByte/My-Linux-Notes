@@ -39,10 +39,33 @@
           </ul>
            </td>
     </tr>
+  </tbody>
   </table>
    
   <b>User Processes ---> User Mode</b>
   <br></br>
   <b>Kernel ---> Kernel Mode</b>
+  
+  <table>
+   <thead>
+     <tr><b>Kernel Mode</b></tr>
+     <tr><b>User Mode</b></tr>
+  </thead>
+  <tbody>
+    <td>
+      <ul>
+        <li>Access to CPU and Main Memory.</li>
+        <li><b>Kernel Space:</b> Area only Kernel can use.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Restricts access to subset of memory and CPU operations.</li>
+        <li><b>User Space:</b> Parts of main memory that user processes can access.</li>
+      </ul>
+    </td>
+    </tdbody>
+    </table>
+          
   
   
