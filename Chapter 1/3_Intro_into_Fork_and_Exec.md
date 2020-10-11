@@ -7,3 +7,4 @@
 
 <p><b>fork():</b> When a process calls fork(), the kernel creates a nearly identical copy of the process.</p>
 <p><b>exec():</b> When a process calls exec(program), the kernel starts program, replacing the current process.</b>
+<p>All user processes on Linux start as a result of fork() (excluding init), and most of the time, you also run exec() to create a new program.</p>
