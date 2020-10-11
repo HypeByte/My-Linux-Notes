@@ -48,8 +48,8 @@
   
   <table>
    <thead>
-     <tr><b>Kernel Mode</b></tr>
-     <tr><b>User Mode</b></tr>
+     <th><b>Kernel Mode</b></tr>
+     <th><b>User Mode</b></tr>
   </thead>
   <tbody>
     <td>
