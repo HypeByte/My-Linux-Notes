@@ -30,6 +30,14 @@
            <li>Device Drivers</li>
           <ul>
             </td>
+        <td>
+          <ul>
+            <li>CPU</li>
+            <li>RAM</li>
+            <li>Disks</li>
+            <li>Network Ports</li>
+          </ul>
+           </td>
     </tr>
   </table>
   
