@@ -15,5 +15,9 @@
       <li><b>System Calls:</b> Processes use them to communicate with Kernel.</li>
     </ul>
     
+    <h3>Processes Management</h3>
+    
+    <img src = "../Assets/LinuxProcesses.jpg">
+    
       
       
