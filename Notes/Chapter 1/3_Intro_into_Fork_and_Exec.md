@@ -8,4 +8,12 @@
     <li>All user processes on Linux start as a result of fork() (excluding init), and most of the time, you also run exec() to create a new program.</li>
 </ul>
 
+<h3>Psuedo Devices</h3>
+
+<ul>
+    <li>Look like devices to user processes.</li>
+    <li>Implemented purely in software.</li>
+    <li>Don't need to be in the kernel</li>
+</ul>
+
 
