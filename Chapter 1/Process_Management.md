@@ -16,7 +16,9 @@
 </ul>
 
 <h3>Process Management:</h3>
+
 ![Image of a Process Management diagram.](https://github.com/HypeByte/My-Linux-Notes/blob/master/Assets/LinuxProcesses.jpg)
+
 <h3>Steps of Process Management:</h3>
 
 <ol>
