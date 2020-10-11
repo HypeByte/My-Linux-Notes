@@ -9,7 +9,10 @@
    
   <h3>Kernel</h3>
       <ul>
-      <li><b>Processes:</b> Kernel is responsible for determining which processes are allowed to run on CPU</li>
+      <li><b>Processes:</b> Kernel is responsible for determining which processes are allowed to run on CPU.</li>
+      <li><b>Memory:</b> Kernel keeps track of memory, what is allocated to a current process, what is shared, and what is free.</li>
+      <li><b>Device Drivers:</b> Kernel acts as an interface between hardware and processes ~ Usually, Kernels job to operate hardware.</li>
+      <li><b>System Calls:</b> Processes use them to communicate with Kernel.</li>
     </ul>
     
       
