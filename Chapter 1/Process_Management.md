@@ -10,8 +10,7 @@
   <h3>Kernel</h3>
   
     <ul>
-      <li><b>Processes:</b> <p>Kernel is responsible for
-      determining which processes are allowed to run on the CPU</p></li>
+      <li><b>Processes:</b> Kernel is responsible for determining which processes are allowed to run on CPU</li>
      </ul>
       
       
