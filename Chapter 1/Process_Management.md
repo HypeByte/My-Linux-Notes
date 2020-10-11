@@ -15,7 +15,7 @@
       <li><b>System Calls:</b> Processes use them to communicate with Kernel.</li>
     </ul>
     
-    <h3>Processes Management</h3>
+   <h3>Process Management:</h3>
     
 ![Image of a Process Management diagram.](https://github.com/HypeByte/My-Linux-Notes/blob/master/Assets/LinuxProcesses.jpg)
 
