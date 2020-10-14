@@ -28,8 +28,17 @@
 
 <ul>
   <li>?oat => all filenames that have (any char) + (oat)</li>
-  <li>foo? =? all filenames that have foo + (any char)</li?
+  <li>foo? =? all filenames that have foo + (any char)</li>
 </ul>
   
   
 <h2>Intermediate Commands.</h2>
+
+<h3>Grep</h3>
+
+<p>$ grep (expression) (file/input stream) => prints every line in (file/input stream) that contains (expression).</p>
+
+
+
+
+
