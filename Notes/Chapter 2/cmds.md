@@ -44,6 +44,20 @@
   <li>grep understands Regex (regular expression).</li>
 </ul>
 
+<h3>Less</h3>
+
+<ul>
+  <li>Allows you to see the contents of a file one screen at a time.</li>
+  <li>Prevents terminal from overflowing.</li>
+  <li>Press spacebar to go forward, and b to go back.</li>
+  <li>Press q to quit.</li>
+  <li>Type /word to search for a word.</li>
+  <li>Type ?word to search backwords for a word.</li>
+  <li>When you find a match, press n to continue.</li>
+  <li><b>Example:</b> $ grep /etc/passwd/ | less</li>
+  <li><b>Note:</b> "|" allows you to send an stdout into an stdin.</li>
+</ul>
+
 
 
 
