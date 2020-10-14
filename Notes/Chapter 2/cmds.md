@@ -30,3 +30,6 @@
   <li>?oat => all filenames that have (any char) + (oat)</li>
   <li>foo? =? all filenames that have foo + (any char)</li?
 </ul>
+  
+  
+<h2>Intermediate Commands.</h2>
