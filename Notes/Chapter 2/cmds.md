@@ -58,6 +58,9 @@
   <li><b>Note:</b> "|" allows you to send an stdout into an stdin.</li>
 </ul>
 
+<h3>pwd</h3>
+
+<p>Prints the current working directory path.</p>
 
 
 
