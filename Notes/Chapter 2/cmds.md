@@ -36,7 +36,13 @@
 
 <h3>Grep</h3>
 
-<p>$ grep (expression) (file/input stream) => prints every line in (file/input stream) that contains (expression).</p>
+<ul>
+  <li>$ grep (expression) (file/input stream) => prints every line in (file/input stream) that contains (expression).</li>
+  <li>-i --> case sensitive.</li>
+  <li>-v --> invert, or print out each line that doesn't contain expression.</li>
+  <li>-E --> egrep, a more powerful version of grep.</li>
+  <li>grep understands Regex (regular expression).</li>
+</ul>
 
 
 
