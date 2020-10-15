@@ -125,7 +125,7 @@
 <h3>Special characters</h3>
 
 ![Image of all the special characters.](https://github.com/HypeByte/My-Linux-Notes/blob/master/Assets/Linux%20Special%20Characters.PNG)
-<p>Src: <a target="http://etutorials.org/Linux+systems/how+linux+works/Chapter+1+The+Basics/1.10+Special+Characters/"> http://etutorials.org/Linux+systems/how+linux+works/Chapter+1+The+Basics/1.10+Special+Characters/</a></p>
+<p>Src: <a target="http://etutorials.org/Linux+systems/how+linux+works/Chapter+1+The+Basics/1.10+Special+Characters/">link</a></p>
 
 <h3>Command Line Editing</h3>
 
