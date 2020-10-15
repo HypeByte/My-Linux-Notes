@@ -119,13 +119,14 @@
   <li>PATH is an environment variable that contains the command path.</li>
   <li>A command path is a list of system directories that the shell searches when trying to locate a command.</li>
   <li>$ PATH=$PATH:dir --> Appends dir to command path.</li>
-  <li>$ PATH=dir:$PATH --> Appends dir to the start of the list.</li?
+  <li>$ PATH=dir:$PATH --> Appends dir to the start of the list.</li>
 </ul>
 
 <h3>Special characters</h3>
 
 ![Image of all the special characters.](https://github.com/HypeByte/My-Linux-Notes/blob/master/Assets/Linux%20Special%20Characters.PNG)
 
+<h3>Command Line Editing</h3>
 
 
 
