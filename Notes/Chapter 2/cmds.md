@@ -86,6 +86,26 @@
   <li>Locate is faster than find.</li>
 <ul>
 
+<h3>Head and Tail</h3>
+
+<ul>
+  <li>$ head file1 ---> Prints the first 10 lines of file1.</li>
+  <li>$ tail file1 ---> Prints the last 10 lines of file1.</li>
+  <li>Use -n option to specify number of lines to be printed, n : number of lines.</li>
+</ul>
+
+<h3>Sort</h3>
+
+<ul>
+  <li>Sorts the lines in a file based on alphabetic order relative to the first char of the lines.</li>
+  <li>Use -n if the first char is a number ---> sorts the lines based on numeric order.</li>
+  <li>Use -r to reverse the order.</li>
+</ul>
+
+<h3>How to change your password on Shell</h3>
+
+<p>Use the passwd command to change your password on shell. It will ask you for your old password.<br></br>Then it will prompt you two times for your new password.</p>
+
 
 
 
