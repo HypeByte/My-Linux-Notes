@@ -106,7 +106,12 @@
 
 <p>Use the passwd command to change your password on shell. It will ask you for your old password.<br></br>Then it will prompt you two times for your new password.</p>
 
+<h3>Dot files</h3>
 
+<ul>
+  <li>Start with ".", example is .ssh.</li>
+  <li>use ls -a to ignore dot files.</li>
+</ul>
 
 
 
