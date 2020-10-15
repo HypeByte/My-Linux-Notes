@@ -113,6 +113,20 @@
   <li>use ls -a to ignore dot files.</li>
 </ul>
 
+<h3>The Command Path</h3>
+
+<ul>
+  <li>PATH is an environment variable that contains the command path.</li>
+  <li>A command path is a list of system directories that the shell searches when trying to locate a command.</li>
+  <li>$ PATH=$PATH:dir --> Appends dir to command path.</li>
+  <li>$ PATH=dir:$PATH --> Appends dir to the start of the list.</li?
+</ul>
+
+
+
+
+
+
 
 
 
