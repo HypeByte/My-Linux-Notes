@@ -122,6 +122,9 @@
   <li>$ PATH=dir:$PATH --> Appends dir to the start of the list.</li?
 </ul>
 
+<h3>Special characters</h3>
+
+![Image of all the special characters.](https://github.com/HypeByte/My-Linux-Notes/blob/master/Assets/LinuxProcesses.jpg)
 
 
 
