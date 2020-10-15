@@ -58,9 +58,16 @@
   <li><b>Note:</b> "|" allows you to send an stdout into an stdin.</li>
 </ul>
 
-<h3>pwd</h3>
+<h3>Pwd</h3>
 
 <p>Prints the current working directory path.</p>
+
+<h3>Diff</h3>
+
+<ul>
+  <li>$ diff file1 file2 ---> shows the difference between file1 and file2.</li>
+  <li>use -u to send the output to somewhere else, perfect for programmers.</li>
+</ul>
 
 
 
