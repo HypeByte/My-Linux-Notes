@@ -69,6 +69,25 @@
   <li>use -u to send the output to somewhere else, perfect for programmers.</li>
 </ul>
 
+<h3>File</h3>
+
+<ul>
+  <li>Used to see the file format of a file.</li>
+  <li>$ file filename --> prints the format of filename.</li>
+</ul>
+
+<h3>Find and Locate</h3>
+
+<ul>
+  <li>$ find dir -name file -print ---> Finds file in dir.</li>
+  <li>Locate is based on an index the system builds periodically.</li>
+  <li>Locates the file in that index.</li>
+  <li>If the file is newer than the index, locate won't find it.</li>
+  <li>Locate is faster than find.</li>
+<ul>
+
+
+
 
 
 
