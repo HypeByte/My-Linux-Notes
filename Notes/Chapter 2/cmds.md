@@ -84,7 +84,7 @@
   <li>Locates the file in that index.</li>
   <li>If the file is newer than the index, locate won't find it.</li>
   <li>Locate is faster than find.</li>
-<ul>
+</ul>
 
 <h3>Head and Tail</h3>
 
