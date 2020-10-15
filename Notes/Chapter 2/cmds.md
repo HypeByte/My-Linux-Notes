@@ -124,7 +124,7 @@
 
 <h3>Special characters</h3>
 
-![Image of all the special characters.](https://github.com/HypeByte/My-Linux-Notes/blob/master/Assets/LinuxProcesses.jpg)
+![Image of all the special characters.](https://github.com/HypeByte/My-Linux-Notes/blob/master/Assets/Linux%20Special%20Characters.PNG)
 
 
 
